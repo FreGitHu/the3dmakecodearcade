@@ -5,7 +5,7 @@ namespace rendering {
         Rendering
     }
     //%block
-    export function setMode() {
-
+    export function setMode(mode: Mode) {
+        
     }
 }
